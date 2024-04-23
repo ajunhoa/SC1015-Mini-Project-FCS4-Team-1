@@ -12,23 +12,23 @@ This repository contains the project files for the our mini project which aims t
 
 ## Table of Contents:
 ### Introduction to our Project
-[Problem Statement](#prob)
-[Datasets](#datasets)
+- [Problem Statement](#prob)
+- [Datasets](#datasets)
 ### Implementation
-[Models we used](#models)
-[Steps we took](#steps)
-[Challenges we faced](#challenges)
-[Improvements Made](#Improvements)
-[Data Driven Insights, Conclusion and Recommendations](#conclude)
-[What we've learnt](#learnt)
+- [Models we used](#models)
+- [Steps we took](#steps)
+- [Challenges we faced](#challenges)
+- [Improvements Made](#Improvements)
+- [Data Driven Insights, Conclusion and Recommendations](#conclude)
+- [What we've learnt](#learnt)
 ### Files Included
-[Notebook](/main.ipynb)
-[Dataset](/data/ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv)
-[Legend of Dataset](/images/legend.png)
-[Image of Sample Dataset](/images/sample_data.png)
+- [Notebook](/main.ipynb)
+- [Dataset](/data/ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv)
+- [Legend of Dataset](/images/legend.png)
+- [Image of Sample Dataset](/images/sample_data.png)
 ### Other Relevant Information
-[Setting Up the Notebook](#config)
-[References](#ref)
+- [Setting Up the Notebook](#config)
+- [References](#ref)
 
 
 
