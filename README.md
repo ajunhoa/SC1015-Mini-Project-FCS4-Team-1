@@ -93,18 +93,13 @@ Some factors could include:
 
 How to use our notebook:
 
-To use this notebook, please install these modules
+To use this notebook, please download main.ipynb
 
-Say what the step will be
+open your terminal and run this line:
 
-    Give the example
+    pip install -r requirements.txt
 
-And repeat
 
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
 
 
 <a name="slidesused"></a>
