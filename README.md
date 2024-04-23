@@ -2,9 +2,7 @@
 This repository contains the project files for the our mini project which aims to predict HDB resale flat prices in Singapore, based on this dataset:
 [Resale Flat Prices from January 2017 onwards](https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)<br>
 
-
 ### Contributors
-
   - [@ajunhoa](https://github.com/ajunhoa) - *--* -
   - [@jodylalala](https://github.com/jodylalala)- *--* -
   - [@winstontai](https://github.com/winstontai)- *--* -
@@ -17,7 +15,6 @@ This repository contains the project files for the our mini project which aims t
 ### Implementation
 - [Models we used](#models)
 - [Steps we took](#steps)
-- [Challenges we faced](#challenges)
 - [Improvements Made](#Improvements)
 - [Data Driven Insights, Conclusion and Recommendations](#conclude)
 - [What we've learnt](#learnt)
@@ -36,20 +33,18 @@ This repository contains the project files for the our mini project which aims t
 <a name="prob"></a>
 
 ### Problem Statement
-- How do we predict the price
+Through this project, we aim to solve a common problem that is faced by Singaporean Couples who intend to purchase a Resale flat from the HDB open market. 
 
-Our Question: Does Being Unconventional Determine Success?
 
-Success: Determined using Salary and Job Satisfaction
-Unconventional Individuals: Outliers/anomalies found after clustering individuals based on the technologies they use such as Web frameworks, Programming languages, Operating systems, etc.
 
-Rationale: We believe that this dataset as well as the question we pose is very relevant to the SCSE community at NTU. Being students of SCSE, once we graduate, we might become developers ourselves. By learning what kinds of developers tend to be more successful, we might be able to understand what it takes to be successful in the software development world.
+Our success metric is determined through accuracy of predicted HDB resale flat price
+
+Through our project, we hope to provide a platform for potential homeowners to seek their dream home. 
 
 <a name="datasets"></a>
 
 ### Datasets: 
 [Resale Flat Prices from January 2017 onwards](https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)<br>
-
 #### Sample Data: <br>![sample_data](/images/sample_data.png)<br>
 #### Dataset Legend: <br>![dataset](/images/legend.png)
 
@@ -66,12 +61,6 @@ Rationale: We believe that this dataset as well as the question we pose is very 
 ## Steps we took
 
 
-<a name="challenge"></a>
-
-## Challenges we've faced
-
-
-
 <a name="Improvements"></a>
 
 ## Improvements made
@@ -82,6 +71,12 @@ Rationale: We believe that this dataset as well as the question we pose is very 
 ## Data Driven Insights, Conclusion & Recommendations
 
 
+### Limitations of this model
+Purchasing a flat in Singapore often include factors that are intangible. These factors are often directly related to the buyer of the flat. 
+Some factors could include:
+- Distance from a Primary School that a parent is intending to enroll their child in, with prices near famous Primary schools increasing due to the demand. 
+- Distance from an MRT, with prices increasing significantly the nearer a flat is to the MRT. 
+- 
 
 
 <a name="learnt"></a>
@@ -96,13 +91,7 @@ Rationale: We believe that this dataset as well as the question we pose is very 
 
 ## Configuration
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
-Explain how to install or set up your project. Include any prerequisites, dependencies, or configuration steps.
-
-
+How to use our notebook:
 
 To use this notebook, please install these modules
 
@@ -122,7 +111,7 @@ for a little demo
 
 ## Slides used in our presentation video
 
-- [Slides here](https://www.canva.com/design/DAGA-lWt5DI/YJIK_vCaoKLj0cnpRK-LaA/view?utm_content=DAGA-lWt5DI&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+- [Our slides ](https://www.canva.com/design/DAGA-lWt5DI/YJIK_vCaoKLj0cnpRK-LaA/view?utm_content=DAGA-lWt5DI&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 
 
@@ -132,5 +121,5 @@ for a little demo
 ## References
 
   - Readme template from: [Billie Thompson](a-good-readme-template) 
-  - Inspiration
-  - etc
+  - 
+  - 
