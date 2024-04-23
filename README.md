@@ -148,6 +148,6 @@ open your terminal and run this line:
 
 
 
-   > "The only way to do great work is to love what you do." - Steve Jobs
+Thank you for reading till the end!
 
 ### [Scroll to top ^](#top) 
