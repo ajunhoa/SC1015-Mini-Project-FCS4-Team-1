@@ -1,3 +1,4 @@
+<a name="top"></a>
 # SC1015 - Predicting HDB resale flat prices in Singapore
 This repository contains the project files for the our mini project which aims to predict HDB resale flat prices in Singapore, based on this dataset:
 [Resale Flat Prices from January 2017 onwards](https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)<br>
@@ -53,7 +54,7 @@ Through our project, we hope to provide a platform for potential homeowners to s
 <a name="models"></a>
 
 ## Models Used
-
+- 
 
 
 <a name="steps"></a>
@@ -118,3 +119,6 @@ open your terminal and run this line:
   - Readme template from: [Billie Thompson](a-good-readme-template) 
   - 
   - 
+
+
+### [Scroll to top ^](#top) 
