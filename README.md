@@ -6,7 +6,7 @@ This repository contains the project files for the our mini project which aims t
 We will also be using the HDB Resale Price Index (RPI) to predict future prices based on past resale transaction data. [RPI](https://www.hdb.gov.sg/residential/selling-a-flat/overview/resale-statistics)
 
 ### Contributors
-  - [@ajunhoa](https://github.com/ajunhoa) - *EDA, Data Cleaning, Pre-processing, Models Implementation, Hyper Parameter Tuning* -
+  - [@ajunhoa](https://github.com/ajunhoa) - *EDA, Data Cleaning, Pre-processing, Models Implementation, Hyper Parameter Tuning, Slides* -
   - [@jodylalala](https://github.com/jodylalala)- *Linear Regression, Gradient Boost Regressor, Readme, Slides* -
   - [@winstontai](https://github.com/winstontai)- *EDA, Hyper Parameter Tuning, Sarimax, SVR, Script, Slides* -
 
@@ -74,12 +74,6 @@ Through our project, we hope to provide a platform for potential homeowners to s
 - XGBoost Regression
 - LightGBM Regression
 - CatBoost Regression
-
-   | Feature     | Description                   |
-   |-------------|-------------------------------|
-   | Feature 1   | Description of Feature 1      |
-   | Feature 2   | Description of Feature 2      |
-
 
 <a name="steps"></a>
 
