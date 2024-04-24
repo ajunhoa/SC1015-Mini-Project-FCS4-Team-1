@@ -6,7 +6,7 @@ This repository contains the project files for the our mini project which aims t
 We will also be using the HDB Resale Price Index (RPI) to predict future prices based on past resale transaction data. [RPI](https://www.hdb.gov.sg/residential/selling-a-flat/overview/resale-statistics)
 
 ### Contributors
-  - [@ajunhoa](https://github.com/ajunhoa) - *Data Cleaning, Randomforest, Data-Driven Analysis and Recommendations* -
+  - [@ajunhoa](https://github.com/ajunhoa) - *EDA, Data Cleaning, Pre-processing, Models Implementation, Hyper Parameter Tuning* -
   - [@jodylalala](https://github.com/jodylalala)- *Linear Regression, Gradient Boost Regressor, Readme, Slides* -
   - [@winstontai](https://github.com/winstontai)- *Exploratory Data Analysis, Hyper Parameter Tuning, ARIMA, SVR* -
 
@@ -62,9 +62,18 @@ Through our project, we hope to provide a platform for potential homeowners to s
 
 
 ### Models Used
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
 - Gradient Boosting Regressor
-- Lasso Regression Model
-Linear Regressio
+- Ridge Regression
+- Lasso Regression
+- ElasticNet Regression
+- SVR
+- KNN Regression
+- XGBoost Regression
+- LightGBM Regression
+- CatBoost Regression
 
    | Feature     | Description                   |
    |-------------|-------------------------------|
@@ -76,7 +85,12 @@ Linear Regressio
 
 
 ### Steps we took
-
+1) Exploratory Data Analysis to analyse our dataset
+2) Data Cleaning to remove any dirty or null data
+3) Pre-processing e.g categorical values to numerical values for model training
+4) Feature Engineering to select features that are impactful to model prediction
+5) Train with regression models
+6) Hyper Parameter Tune models to improve accuracy
 
 <a name="Improvements"></a>
 
@@ -95,7 +109,6 @@ Purchasing a flat in Singapore often include factors that are intangible. These 
 Some factors could include:
 - Distance from a Primary School that a parent is intending to enroll their child in, with prices near famous Primary schools increasing due to the demand. 
 - Distance from an MRT, with prices increasing significantly the nearer a flat is to the MRT. 
-- 
 
 
 <a name="learnt"></a>
@@ -103,8 +116,12 @@ Some factors could include:
 
 ### What we've learnt
 
-
-
+- Usage of other regression models & SARIMAX
+- Exploring data with Plotly
+- Tuning our own models
+- Collaborating in Github
+- Using different python packages
+- Data wrangling with encoders
 
 <a name="config"></a>
 ---
