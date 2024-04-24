@@ -8,7 +8,7 @@ We will also be using the HDB Resale Price Index (RPI) to predict future prices 
 ### Contributors
   - [@ajunhoa](https://github.com/ajunhoa) - *EDA, Data Cleaning, Pre-processing, Models Implementation, Hyper Parameter Tuning* -
   - [@jodylalala](https://github.com/jodylalala)- *Linear Regression, Gradient Boost Regressor, Readme, Slides* -
-  - [@winstontai](https://github.com/winstontai)- *Exploratory Data Analysis, Hyper Parameter Tuning, ARIMA, SVR* -
+  - [@winstontai](https://github.com/winstontai)- *EDA, Hyper Parameter Tuning, Sarimax, SVR, Script, Slides* -
 
     ---
 
