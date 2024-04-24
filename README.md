@@ -3,7 +3,7 @@
 
 # :rocket: SC1015 - Predicting HDB resale flat prices in Singapore
 This repository contains the project files for the our mini project which aims to predict HDB resale flat prices in Singapore, based on this dataset: [Resale Flat Prices from January 2017 onwards](https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)
-We will also be using the HDB Resale Price Index (RPI) to predict future prices based on past resale transaction data. [RPI](https://www.hdb.gov.sg/residential/selling-a-flat/overview/resale-statistics)
+We will also be using the HDB Resale Price Index ([RPI](https://www.hdb.gov.sg/residential/selling-a-flat/overview/resale-statistics)) to predict future prices based on past resale transaction data. 
 
 ### Contributors
   - [@ajunhoa](https://github.com/ajunhoa) - *EDA, Data Cleaning, Pre-processing, Models Implementation, Hyper Parameter Tuning, Slides* -
